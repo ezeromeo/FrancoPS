@@ -14,7 +14,7 @@ header{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-image: url("img/header_image.jpg");
+  background-image: url("/img/header_image.jpg") !important;
   background-repeat: no-repeat;
 
 }
