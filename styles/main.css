@@ -1,0 +1,253 @@
+html{
+  margin: 1vw !important;
+}
+
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(228, 228, 228) !important;
+  
+  
+}
+
+header{
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url("/img/header_image.jpg");
+  background-repeat: no-repeat;
+
+}
+
+#name-logo{
+
+  display: flex;
+  align-items: center;
+
+}
+
+#name-logo img{
+
+  width: 10vw;
+}
+
+#navbar{
+
+  display: flex;
+  justify-content: space-around;
+  font-size: 1em;
+  background-color: coral;
+  font-size: large;
+  margin-bottom: 4vh;
+  
+}
+
+#navbar a{
+  text-decoration: none;
+  color: white;
+}
+
+#title-filter{
+
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2vh;
+
+}
+
+
+
+#title_and_imgs h1{
+
+  text-align: center;
+}
+
+#text h3{
+  margin-top: 8vh;
+  
+  text-align: center;  
+}
+
+#text p{
+  text-align: justify;
+  margin: 2vw;
+  font-size: large;
+}
+
+.location{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.location h3{
+
+  margin-bottom: 5vh;
+}
+
+footer{
+
+  padding-top: 10vh;
+  
+
+}
+
+fieldset{
+  text-align: center;
+  padding-top: 3vh;
+  background-image: url("/img/header_image.jpg");
+}
+
+fieldset legend{
+
+  text-align: center;
+  padding-bottom: 2vh;
+}
+
+form{
+  width: 100%;
+
+}
+
+form p{
+
+  font-size:smaller;
+  margin-top: 2vh;
+  color: white;
+}
+
+.contact-main{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+main h1{
+  text-align: center;
+  padding-top: 2vh;
+  padding-bottom: 4vh;
+}
+
+#cmmnts{
+
+  display: flex;
+  flex-direction: column;
+}
+
+textarea{
+  resize: none;
+}
+
+#text-contact{
+
+  display: flex;
+  flex-direction: column;
+}
+
+#sex{
+  display: flex;
+  width: 70%;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+
+#text-contact{
+
+  align-items: center;
+}
+
+#human-data{
+
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+#pet-data{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+#send-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+
+}
+
+#send{
+  background-color: green;
+  color: white;
+  padding: 15px 32px;
+}
+
+.col img{
+  display: flex;
+  justify-content: center;
+  width: 40%;
+  
+}
+
+#card-text{
+  text-align: center;
+}
+
+.row{
+
+  display: flex;
+  justify-content: space-around;
+  
+  
+}
+
+div.card{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-body button{
+  margin-left: 10px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+#add-to-cart{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#add-to-cart button{
+  background-color:coral;
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#add-to-cart button:hover{
+  background-color:seagreen;
+}
+
+
+#name-logo{
+  display: flex;
+  color: white;
+  padding-left: 3vw;
+}
+
+#name-logo img{
+  width: 20%;
+
+}
+
+
+.carousel-item img{
+
+  width: 50%;
+}
