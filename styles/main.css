@@ -14,7 +14,7 @@ header{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-image: url("/img/header_image.jpg");
+  background-image: url("img/header_image.jpg");
   background-repeat: no-repeat;
 
 }
@@ -96,7 +96,7 @@ footer{
 fieldset{
   text-align: center;
   padding-top: 3vh;
-  background-image: url("/img/header_image.jpg");
+  background-image: url("img/header_image.jpg");
 }
 
 fieldset legend{
