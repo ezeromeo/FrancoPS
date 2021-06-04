@@ -46,7 +46,7 @@ const articles =
           "_id":"5f205462bf2ede0017e4850b",
           "nombre":"Cuerda para morder",
           "descripcion":"Juguete ideal para perros. Con esta cuerda podrán jugar solos, con usted o con otra mascota. Muy útil para liberar tensiones y brindarles un objeto de apego con el cual se sientan cómodos. Viene en dos medidas: 50cm/60cm",
-          "precio":350,
+          "precio":356,
           "stock":8,
           "imagen":"https://cdn.shopify.com/s/files/1/0406/8003/0364/products/product-image-1228771554_1024x1024.jpg?v=1592521710",
           "tipo":"Juguete",
